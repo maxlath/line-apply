@@ -133,5 +133,5 @@ cat some_data | line-apply ./function_collection.js foo 123
 ```
 
 ## See also
-* [ndjson-apply](https://github.com/maxlath/ndjson-apply/)
-* [json-apply](https://github.com/maxlath/json-apply/)
+* [ndjson-apply](https://codeberg.org/maxlath/ndjson-apply/)
+* [json-apply](https://codeberg.org/maxlath/json-apply/)
