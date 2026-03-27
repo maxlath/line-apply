@@ -45,10 +45,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxlath/line-apply.git"
+    "url": "https://codeberg.org/maxlath/line-apply"
   },
   "bugs": {
-    "url": "https://github.com/maxlath/line-apply/issues"
+    "url": "https://codeberg.org/maxlath/line-apply/issues"
   },
-  "homepage": "https://github.com/maxlath/line-apply#readme"
+  "homepage": "https://codeberg.org/maxlath/line-apply#readme"
 }
